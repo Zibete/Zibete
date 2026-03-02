@@ -42,8 +42,17 @@ Caso real de automatización de procesos de Cuentas a Pagar (Accounts Payable), 
 
 ---
 
+## 🤖 IA y agentes (workflow)
+
+- Agentes en IDE + ChatGPT para refactors guiados por prompts (cambios pequeños y revisables).
+- Generación/ajuste de documentación técnica (README, PRs, checklists) y mensajes de commit.
+- Scaffolding de tests (unit) y validaciones de CI (GitHub Actions).
+- Revisión manual + ejecución local de tests/lint antes de merge.
+
+---
+
 - 🔭 Actualmente: construyendo **ZIBE**, app Android (Kotlin + Jetpack Compose + Firebase) con migración progresiva desde Java.
 - 🌱 En foco: **arquitectura MVVM**, testing (unit), y CI con GitHub Actions.
 - 👯 Me interesa colaborar en: proyectos Android (Compose / Firebase) y tooling de automatización.
 - 💬 Preguntame sobre: migraciones Java→Kotlin, Compose + Material 3, Firebase (Auth/RTDB/FCM) y automatización (VBA/Python).
-- 📫 Contacto:  [LinkedIn](https://www.linkedin.com/in/matiasabelperalta/) · [Email](matiasabelperalta@gmail.com)
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/matiasabelperalta/) · [Email](mailto:matiasabelperalta@gmail.com)
